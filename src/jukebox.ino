@@ -18,7 +18,7 @@
 
 // ======================CONNECTION for Potentiometer volume control ======================
 
-#define POT_VOL         4
+#define POT_VOL         8
 
 // =======================================================================================
 #define FPSerial Serial1
